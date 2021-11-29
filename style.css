@@ -29,3 +29,18 @@
   height:500px;
   background-color:#00a8f3;
 }
+
+@media only screen and (min-width:600px) and ( max-width:1000px) {
+  .menu{
+    width:100%;
+}
+.sidenav{
+  width:35%;
+  margin-top:5%;
+}
+.contents{
+   margin:60%;
+   margin:5%;
+}
+
+}
