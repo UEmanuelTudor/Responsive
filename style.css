@@ -23,8 +23,7 @@
 }
 .contents{
  float:left;
-  margin:50px;
-  left:350px;
+  
   width:650px;
   height:500px;
   background-color:#00a8f3;
@@ -39,6 +38,7 @@
   margin-top:5%;
 }
 .contents{
+  width: 65%;
    margin:60%;
    margin:5%;
 }
