@@ -43,3 +43,16 @@
 }
 
 }
+@media only screen and  ( max-width:599px) {
+  .menu{
+    width:100%;
+}
+.sidenav{
+  width:100%;
+  
+}
+.contents{
+  width: 100%;
+}
+
+}
